@@ -93,12 +93,4 @@ Aplikasi web ini memungkinkan pengguna untuk mengonversi file JSON atau TXT menj
 4. Buka browser dan akses `http://localhost:3000`.
 5. Modifikasi kode di `src/App.jsx` untuk menyesuaikan fitur atau tampilan.
 
----
 
-## Lisensi
-
-Proyek ini bersifat open-source dan dapat digunakan serta dimodifikasi sesuai kebutuhan.
-
----
-
-Dokumentasi ini dibuat untuk memudahkan penggunaan dan pengembangan aplikasi konversi JSON/TXT ke Excel/CSV.
